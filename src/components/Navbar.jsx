@@ -1,7 +1,7 @@
 import { Search } from "lucide-react";
 import { useState, useEffect } from "react";
 import { useNavigate } from "react-router-dom";
-import { searchMovies } from "../services/api";
+import { searchMovies } from "../services/Api";
 
 function Navbar() {
   const [query, setQuery] = useState("");

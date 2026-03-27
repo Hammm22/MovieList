@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
-import { getPopularMovies, searchMovies } from "../services/api";
+import { getPopularMovies, searchMovies } from "../services/Api";
 import { useLocation } from "react-router-dom";
-import MovieCard from "../components/MovieCard";
+import MovieCard from "../components/Moviecard";
 
 function Home() {
   const [movies, setMovies] = useState([]);
