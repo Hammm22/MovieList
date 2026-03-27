@@ -38,7 +38,7 @@ src/
  │    ├── Detail.jsx
  │
  ├── services/
- │    └── api.js
+ │    └── Api.js
 ```
 
 ---
@@ -75,7 +75,8 @@ This project is ready to be deployed using Vercel or any modern frontend hosting
 
 ## Preview
 
-(Add screenshots or demo link here)
+<img width="1918" height="895" alt="image" src="https://github.com/user-attachments/assets/2c61efb1-a47a-4af2-9644-50bb7721999a" />
+
 
 ---
 
